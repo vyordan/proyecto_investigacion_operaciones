@@ -15,9 +15,9 @@ from interfaz.paginas import (
 
 # TODO: completar antes de entregar (requisito 7 del enunciado).
 NOMBRE_APP = "Asistente de Investigación de Operaciones"
-INTEGRANTES = ["Integrante 1", "Integrante 2"]
+INTEGRANTES = ["Integrante Jeremy Paredes", "Integrante Yordan Vasquez"]
 ASIGNATURA = "Investigación de Operaciones"
-SECCION = "Sección X"
+SECCION = "Facultada de Ing en sistemas de la informacion"
 
 
 def _inicio() -> None:
