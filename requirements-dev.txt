@@ -1,0 +1,4 @@
+# Dependencias de desarrollo: pruebas y verificación cruzada (no van a producción).
+-r requirements.txt
+pytest>=8
+scipy>=1.11

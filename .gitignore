@@ -1,0 +1,14 @@
+# Entorno virtual y caché
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Secretos: nunca se suben al repositorio
+.env
+.streamlit/secrets.toml
+
+# Editores / sistema
+.vscode/
+.idea/
+.DS_Store

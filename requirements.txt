@@ -1,0 +1,5 @@
+# Dependencias de producción (lo único que instala Streamlit Community Cloud / Docker).
+streamlit>=1.40
+pydantic>=2.7
+matplotlib>=3.8
+google-genai>=1.0
